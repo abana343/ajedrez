@@ -8,6 +8,7 @@ public class Coord {
 		this.x=x;
 		this.y=y;
 	}
+        
 
 	Coord(char x, int y) {
 		//this.x=x;
