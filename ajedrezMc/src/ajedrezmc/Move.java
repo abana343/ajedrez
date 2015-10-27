@@ -1,3 +1,4 @@
+//hola
 package ajedrezmc;
 import java.util.Comparator;
 public class Move implements Comparator {
